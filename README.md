@@ -12,6 +12,9 @@ The Open California Coalition advocates for useful public data and technology pr
 
 ## Open California Principles
 
+*“You need to have a public sector commensurate with the vitality and creativity of private life here. Look at the universities, the hospitals, our doctors! Look at the vitality of our literary culture, our painters!”*
+    – Kevin Starr, Former State Librarian of California
+
 From the world's largest port to the nation's first freeways to pioneering aqueducts, California's history has been defined by visionary public works. The digital revolution has transformed countless industries, yet by and large a time traveler from the 50’s would find the operational practices of California government strangely familiar. 
 
 Nothing equal to the development over a century ago of professional water utilities or universal public schooling — institutions that implemented nearly ubiquitous access to clean water and essentially eradicated illiteracy in America — has been developed for the digital era. California can and should lead the world in building the great public works of our era -- public technology that tackles our big challenges as a state. 
