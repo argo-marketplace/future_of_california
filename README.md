@@ -1,8 +1,10 @@
-# The Future of California
+# The Future of California v 1.0
 
 ![California Dreaming Map](images/california-dreaming-pano.jpg)
 
 H/T [IFTF California Dreaming Map](http://www.iftf.org/our-work/global-landscape/human-settlement/california-dreaming-map/)
+
+*Contributing:* This is a living document! Please feel free to submit a PR to improve the principles here. If you're not familiar with GitHub please feel free to email argo@argolabs.org with your suggested language. 
 
 ## Open California Mission
 
