@@ -6,7 +6,7 @@ H/T [IFTF California Dreaming Map](http://www.iftf.org/our-work/global-landscape
 
 ## Please Contribute!
 This is a living document! Please feel free to [create an Issue](https://help.github.com/articles/creating-an-issue/) (less technical) OR [submit a Pull Request](https://help.github.com/articles/creating-a-pull-request/) (more technical) to suggest improvements to the principles. 
-If you're not familiar with GitHub please feel free to email [argo@argolabs.org](mailto:argo@sargolabs.org?subject=Re:Open California Principles) with your suggestions.
+If you're not familiar with GitHub please feel free to email [argo@argolabs.org](echo "argo@argolabs.org?subject=Re:Open California Principles" | mdown) with your suggestions.
 
 ## Open California Mission
 
