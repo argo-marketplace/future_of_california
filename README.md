@@ -1,16 +1,16 @@
-# The Future of California v 1.0
+# Pioneering a brighter future in California and beyond v 1.1
 
 ![California Dreaming Map](images/california-dreaming-pano.jpg)
 
 H/T [IFTF California Dreaming Map](http://www.iftf.org/our-work/global-landscape/human-settlement/california-dreaming-map/)
 
+## How to contribute 
+
+We're a coalition of Code for America brigades, journalists, local activists, reform groups, and public officials committed to the cause of modernizing how California government operates so the state can lead the world into a more free and open future. 
+
 *Contributing:* This is a living document! Please feel free to submit a PR to improve the principles here. If you're not familiar with GitHub please feel free to email argo@argolabs.org with your suggested language. 
 
-## Open California Mission
-
-The Open California Coalition advocates for useful public data and technology projects that improve the lives of the people of this great state. We're a coalition of Code for America brigades, journalists, local activists, reform groups, and public officials committed to the cause of modernizing how California government operates so the state can lead the world into a more free and open future. 
-
-## Open California Principles
+## Public Technology Principles
 
 *“You need to have a public sector commensurate with the vitality and creativity of private life here. Look at the universities, the hospitals, our doctors! Look at the vitality of our literary culture, our painters!”*
     – Kevin Starr, Former State Librarian of California
@@ -43,4 +43,4 @@ This stems from a belief that California’s open, inclusive values are more imp
 4. All California state and local governments should open their doors to new talent with skills in agile software development, data science and other important digital skills. That should include support for training public servants on these new tools and California government managers should actually be able to terminate non-performing personnel. 
 5. From start to finish, new government digital service and data science projects should strive to include the community in planning, design, implementation and ongoing maintenance wherever possible. That community involvement should build from existing efforts such as those led by local Code for America brigades and others.
 6. Regional and local governments should be incentivized to collaborate and jointly procure technology and services to implement these principles. By aggregating demand and developing standards to meet common needs, California governments can save money while deploying better public technology. 
-7. California should empower the Little Hoover Commission with the ability to place proposals to modernize obsolete and consolidate duplicative government agencies as an initiative on the California ballot. This concept was described in greater detail in the Think Long Committee’s “[Blueprint to Renew California](https://berggruen-institute-production.s3.amazonaws.com/uploads/document/filename/2336/blueprint_to_renew_ca.pdf).” 
+7. California should undertake a comprehensive review examining how to modernize obsolete and consolidate duplicative government agencies like California's two state water agencies. The results of that review should have be placed unmodified for an up or down vote. 
