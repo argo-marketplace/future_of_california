@@ -4,11 +4,12 @@
 
 H/T [IFTF California Dreaming Map](http://www.iftf.org/our-work/global-landscape/human-settlement/california-dreaming-map/)
 
-## How to contribute 
+## Please Contribute!
 
 We're a coalition of Code for America brigades, journalists, local activists, reform groups, and public officials committed to the cause of modernizing how California government operates so the state can lead the world into a more free and open future. 
 
-*Contributing:* This is a living document! Please feel free to submit a PR to improve the principles here. If you're not familiar with GitHub please feel free to email argo@argolabs.org with your suggested language. 
+This is a living document! Please feel free to [create an Issue](https://help.github.com/articles/creating-an-issue/) (less technical) OR [submit a Pull Request](https://help.github.com/articles/creating-a-pull-request/) (more technical) to suggest improvements to the principles. 
+If you're not familiar with GitHub please feel free to email **argo@argolabs.org** with your suggestions.
 
 Please consider the history of _why_ California government exists the way it does and previous reform efforts prior to proposing a new idea. Learning the lesson of [Chesterton's Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence) will enable us to pioneer the genuinely new. 
 
