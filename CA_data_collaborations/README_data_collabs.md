@@ -24,6 +24,19 @@ This readme aims to provide a common operational picture of public data collabor
 | [California Data Collaborative](http://californiadatacollaborative.org) | Data warehousing, decision support analytics, streamlining research, curating open data, inter-governmental partnership |       |
 | [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) | Data Standard |       |
 
-## Future work
+## Quantifying government data collaborations -- ARGO winter 18-19 pro-bono marketplace project
 
-This initial exercise is to simply list all the public data collaboratives operating in California. In the future it would be useful to survey key project metadata including a list of partners, number of staff dedicated to the collaboration, the annual budget of the project and other useful contextual information. 
+This initial exercise is to dig into the number of repositories and contributers at government GitHub projects inventoried at: https://government.github.com/community/
+
+Psuedocode -- do something like:
+
+1. Scrape a list of government github projects from https://government.github.com/community/
+2. For each project in that list: 
+	- count the number of repositories ( https://developer.github.com/v3/repos/#list-organization-repositories ) and for each repo:
+		- count the number of contributors in each repository ( https://developer.github.com/v3/repos/#list-contributors )
+		- note the languages used in the repository ( https://developer.github.com/v3/repos/#list-languages )
+3. Develop two dataframe with columns <government_name, repo_count> and <government_name, repo_name, contributor_count, primary_language>
+
+## Future work 
+
+Please share your ideas in the issues! In the future it would be useful to survey key project metadata including a list of partners, number of staff dedicated to the collaboration, the annual budget of the project and other useful contextual information. 
