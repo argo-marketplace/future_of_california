@@ -20,7 +20,7 @@ This readme aims to provide a common operational picture of public data collabor
 |-----------------------------------|----------------------------|-------|
 | [UCLA Policy Lab](https://www.capolicylab.org/) | Data warehousing, streamlining research |       |
 | [SCAG Regional Data Collaborative](https://datadonuts.la/event/data-donuts-12.html)  | Inter-governmental partnership |       |
-| [Berkeley Water Data Collaborative](https://data.berkeley.edu/news/data-collaboratives-moving-knowledge-action) | Student projects |       |
+| [Berkeley Water Data Collaborative](https://data.berkeley.edu/news/data-collaboratives-moving-knowledge-action) | Aggregating projects from Water Data Challenges and beyond |       |
 | [California Data Collaborative](http://californiadatacollaborative.org) | Data warehousing, decision support analytics, streamlining research, curating open data, inter-governmental partnership |       |
 | [Mobility Data Specification](https://github.com/CityOfLosAngeles/mobility-data-specification) | Data Standard |       |
 
