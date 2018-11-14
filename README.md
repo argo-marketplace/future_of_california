@@ -1,4 +1,4 @@
-# Pioneering a brighter future in California and beyond v 1.2
+# Pioneering a brighter future in California and beyond v 1.3
 
 ![California Dreaming Map](images/california-dreaming-pano.jpg)
 
