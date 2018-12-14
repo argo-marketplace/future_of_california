@@ -57,3 +57,8 @@ In implementing these principles, California's public sector should to strive to
 5. From start to finish, new government digital service and data science projects should strive to include the community in planning, design, implementation and ongoing maintenance wherever possible. That community involvement should build from existing efforts such as those led by local Code for America brigades and others.
 6. Regional and local governments should be incentivized to collaborate and jointly procure technology and services to implement these principles. By aggregating demand and developing standards to meet common needs, California governments can save money while deploying better public technology. In addition, the state of California should create an ["opportunity fund"](https://github.com/argo-marketplace/future_of_california/issues/12) to invest in best in class public technology and those moneys could come from a new ["no-lose lottery"](http://freakonomics.com/podcast/say-no-no-lose-lottery-rebroadcast/) that incentivizes Californians to save for the future. 
 7. California should have the courage to ["burn the wagons"](https://medium.com/a-r-g-o/how-ending-traffic-in-la-will-save-the-world-or-the-opportunity-for-a-breakthrough-in-global-3739fc4f4066) and lead the world boldly into the future. To avoid being trapped by past accidents of history, California should undertake a comprehensive review examining how to modernize obsolete and consolidate duplicative government agencies like California's two state water agencies. The results of that review should have be placed unmodified for an up or down vote. 
+
+
+## Contributing
+
+Learn more about how you can [CONTRIBUTE](CONTRIBUTING.md).
