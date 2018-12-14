@@ -37,6 +37,8 @@ Psuedocode -- do something like:
 		- note the languages used in the repository ( https://developer.github.com/v3/repos/#list-languages )
 3. Develop two dataframe with columns <government_name, repo_count> and <government_name, repo_name, contributor_count, primary_language>
 
+The goal of the project is to develop creative ways to visualize the data in the resulting dataframes. One key audience is the California Gov Ops data team. Please see here for a [thread to share visualizations.](https://github.com/argo-marketplace/future_of_california/issues/13)
+
 ## Future work 
 
 Please share your ideas in the issues! In the future it would be useful to survey key project metadata including a list of partners, number of staff dedicated to the collaboration, the annual budget of the project and other useful contextual information. 
