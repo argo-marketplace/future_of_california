@@ -179,19 +179,17 @@ government operates in California and beyond:
   <form action="https://ARGOlabs.us17.list-manage.com/subscribe/post?u=bbd2025a1954e67e54dcfd5f6&amp;id=76d83dcaa1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
       <div class="mc-field-group">
-
+        <label for="mce-EMAIL">Email Address  </label>
         <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
       </div>
       <div class="mc-field-group">
-        <label for="mce-EMAIL">Email Address  </label>
-
+        <label for="mce-FNAME">First Name </label>
         <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
       </div>
       <div class="mc-field-group">
-        <label for="mce-FNAME">First Name </label>
+	<label for="mce-LNAME">Last Name </label>
         <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
       </div>
-      <label for="mce-LNAME">Last Name </label>
       <div id="mce-responses" class="clear">
         <div class="response" id="mce-error-response" style="display:none"></div>
         <div class="response" id="mce-success-response" style="display:none"></div>

@@ -1,0 +1,10 @@
+// Mailchimp email signup form. We use their styling because it's easier than
+// writing our own for now. It probably will conflict with other form styles.
+//
+// We make a few overrides to make it look a little more like the theme.
+@import "//cdn-images.mailchimp.com/embedcode/classic-10_7.css";
+#mc_embed_signup {
+  form {
+    padding: 0;
+  }
+}

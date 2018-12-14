@@ -1,5 +1,6 @@
 # Contributing
 
+
 ## Viewing this site locally
 
 Make sure you have these prerequisites installed.
@@ -19,3 +20,6 @@ Start the server.
 Open your web browser to [localhost:4000](http://localhost:4000).
 
 Learn more about working with [Jekyll](https://jekyllrb.com/).
+
+This site uses the [Minimal](https://github.com/pages-themes/minimal) theme.
+You'll want to refer to their documentation to make customizations to this site.
