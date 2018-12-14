@@ -17,3 +17,5 @@ Start the server.
     $ bundle exec jekyll serve
 
 Open your web browser to [localhost:4000](http://localhost:4000).
+
+Learn more about working with [Jekyll](https://jekyllrb.com/).
