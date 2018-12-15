@@ -4,7 +4,7 @@
 
 H/T [IFTF California Dreaming Map](http://www.iftf.org/our-work/global-landscape/human-settlement/california-dreaming-map/)
 
-This repo exists to help pioneer a brighter future in California and beyond. The [principles articulated here]](https://argo-marketplace.github.io/future_of_california/) aim to accelerate good government through great public technology.
+This repo exists to help pioneer a brighter future in California and beyond. The [principles articulated here](https://argo-marketplace.github.io/future_of_california/) aim to accelerate good government through great public technology.
 
 _Context:_ ["The public works of the digital era have yet to be built. The opportunity is huge"](https://apolitical.co/solution_article/public-investment-made-california-great-its-time-for-the-next-wave/)
 
