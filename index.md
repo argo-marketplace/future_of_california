@@ -113,10 +113,7 @@ modernization of how California government operates.
    services – such as Consolidated Annual Financial Reports (“CAFRs”) and parcel
    level zoning information – across government agencies to enable collaboration
    and interoperability across California and around the world.
-1. This effort to modernize California government should focus on a future its
-   people deserve and have the courage to consolidate obsolete institutions that
-   frustrate progress (for example California’s [two duplicative state water
-   agencies](https://lhc.ca.gov/sites/lhc.ca.gov/files/Reports/201/Report201.pdf)).
+1. This effort to modernize California government should focus on a future its people deserve and have the courage to consolidate obsolete institutions that frustrate progress (for example California’s [two duplicative state water agencies](https://lhc.ca.gov/sites/lhc.ca.gov/files/Reports/201/Report201.pdf)). 
 
 
 ## Implementation Strategy
@@ -126,52 +123,14 @@ embody the “pioneering spirit” that has made this state great. The following
 strategies aim to provide a creative, comprehensive approach to improve how
 government operates in California and beyond:
 
-1. California should launch a Civic Technology Corps in the spirit of the
-   Community Conservation Corps (CCC) and California Conservation Corps. The
-   Corps can be built around existing fellowships such as CfA community fellows,
-   TfA Fellows, Fuse Corps Fellows, Civic Spark Fellows, Americorps Fellows,
-   Coro Fellows, Gen 2 Gen Fellows and others. The Governors office could
-   convene a California Civic Technology summit inviting these fellows and
-   support coordinating actions so fellows can be internal civic champions for
-   great public technology.
-1. The California Department of Technology should open a new digital office in
-   Oakland to make modern design and information technology practices the new
-   normal in California government. This strategy was more fully articulated in
-   a letter from Code for America Founder Jennifer Palkha to the next Governor.
-   That effort should build from the UK Digital Service, US Digital Service, 18F
-   and numerous other units at cities and countries around the globe.
-1. California should formalize a nonprofit Applied Research arm of the
-   California Government Operations agency to serve as an independent utility
-   stewarding public data across local municipalities and accelerate the
-   implementation of these principles. That effort should build from leading
-   global examples like the UK’s Administrative Data Research Network, the New
-   Zealand Integrated Data Services, and the numerous Data Collaboratives
-   catalogued by NYU Gov Lab. See here for the latest to map data collaboratives
-   across California.
-1. All California state and local governments should open their doors to new
-   talent with skills in agile software development, data science and other
-   important digital skills. That should include support for training public
-   servants on these new tools and California government managers should
-   actually be able to terminate non-performing personnel.
-1. From start to finish, new government digital service and data science
-   projects should strive to include the community in planning, design,
-   implementation and ongoing maintenance wherever possible. That community
-   involvement should build from existing efforts such as those led by local
-   Code for America brigades and others.
-1. Regional and local governments should be incentivized to collaborate and
-   jointly procure technology and services to implement these principles. By
-   aggregating demand and developing standards to meet common needs, California
-   governments can save money while deploying better public technology. In
-   addition, the state of California should create an “opportunity fund” to
-   invest in best in class public technology and those moneys could come from
-   a new “no-lose lottery” that incentivizes Californians to save for the
-   future.
-1. California should have the courage to “burn the wagons” and lead the world
-   boldly into the future. To avoid being trapped by past accidents of history,
-   California should undertake a comprehensive review examining how to modernize
-   obsolete and consolidate duplicative government agencies like California’s
-   two state water agencies. The results of that review should have be placed
-   unmodified for an up or down vote.
+
+1. California should launch a [Civic Technology Corps](https://github.com/argo-marketplace/future_of_california/issues/2) in the spirit of the Community Conservation Corps (CCC) and California Conservation Corps. The Corps can be built around existing fellowships such as CfA community fellows, TfA Fellows, Fuse Corps Fellows, Civic Spark Fellows, Americorps Fellows, Coro Fellows, Gen 2 Gen Fellows and others. The Governors office could convene a California Civic Technology summit inviting these fellows and support coordinating actions so fellows can be internal civic champions for great public technology. 
+1. The California Department of Technology should open a new digital office in Oakland to make modern design and information technology practices the new normal in California government. This strategy was more fully articulated in a [letter from Code for America Founder Jennifer Palkha to the next Governor](https://medium.com/@pahlkadot/dear-governor-elect-72e2f5e3bfdb). That effort should build from the UK Digital Service, US Digital Service, 18F and numerous other units at cities and countries around the globe. 
+1. California should formalize a nonprofit Applied Research arm of the California Government Operations agency to serve as an independent utility stewarding public data across local municipalities and accelerate the implementation of these principles. That effort should build from leading global examples like the UK’s Administrative Data Research Network, the New Zealand Integrated Data Services, and the numerous Data Collaboratives [catalogued](http://datacollaboratives.org/) by NYU Gov Lab. See here for the latest to [map data collaboratives across California.](https://github.com/argo-marketplace/future_of_california/blob/master/CA_data_collaborations/README_data_collabs.md)
+1. All California state and local governments should open their doors to new talent with skills in agile software development, data science and other important digital skills. That should include support for training public servants on these new tools and California government managers should actually be able to terminate non-performing personnel. 
+1. From start to finish, new government digital service and data science projects should strive to include the community in planning, design, implementation and ongoing maintenance wherever possible. That community involvement should build from existing efforts such as those led by local Code for America brigades and others.
+1. Regional and local governments should be incentivized to collaborate and jointly procure technology and services to implement these principles. By aggregating demand and developing standards to meet common needs, California governments can save money while deploying better public technology. In addition, the state of California should create an ["opportunity fund"](https://github.com/argo-marketplace/future_of_california/issues/12) to invest in best in class public technology and those moneys could come from a new ["no-lose lottery"](http://freakonomics.com/podcast/say-no-no-lose-lottery-rebroadcast/) that incentivizes Californians to save for the future. 
+1. California should have the courage to ["burn the wagons"](https://medium.com/a-r-g-o/how-ending-traffic-in-la-will-save-the-world-or-the-opportunity-for-a-breakthrough-in-global-3739fc4f4066) and lead the world boldly into the future. To avoid being trapped by past accidents of history, California should undertake a comprehensive review examining how to modernize obsolete and consolidate duplicative government agencies like California's two state water agencies. The results of that review should have be placed unmodified for an up or down vote. 
 
 ## Subscribe to our mailing list
 
