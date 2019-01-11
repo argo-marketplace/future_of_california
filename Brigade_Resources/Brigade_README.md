@@ -1,7 +1,7 @@
 
 # Brigade Resources 
 
-/// ![California Dreaming Map](../images/california-dreaming-pano.jpg)
+![California Dreaming Map](../images/california-dreaming-pano.jpg)
 
 This repo exists to help pioneer a brighter future in California and beyond. The [principles articulated here](https://argo-marketplace.github.io/future_of_california/) aim to accelerate good government through great public technology.
 
