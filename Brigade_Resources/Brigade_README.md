@@ -11,7 +11,7 @@ Goal is to build out a template workshop that can be used to support local briga
 
 1. How can <my brigade> implement the principles that most resonate with our community?
 2. List of discussion questions on the risks of better public technology.
-3. Connection with the directory of resources being developed by Cori Zarek at CfA.
+3. Connection with a directory of resources.
 
 More to come! (Also note a great opportunity to use https://discourse.codeforamerica.org/)
 
