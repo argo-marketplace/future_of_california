@@ -81,7 +81,7 @@ modernization of how California government operates.
 
 1. Californians should have the opportunity to provide official public comment
    on government business virtually, at a time and place of their convenience,
-   and upvote other comments similar to reddit.
+   and upvote other comments.
 1. Californians should encounter a seamless user experience when interacting
    with their government commensurate with the expectation of a modern consumer
    web application. Digital resources and information should be inclusive,
@@ -104,11 +104,7 @@ modernization of how California government operates.
 1. All of California’s state and local government programs should clearly
    articulate the intended goals of their public services and use data to
    measure results achieved.
-1. Every state agency and local government in California should make their
-   public data open and machine readable by default. That should include the
-   dollars spent on legacy information technology systems (at the level of
-   detail of StackShare.io unless there is a compelling reason otherwise) and
-   data detailing all public procurement.
+1. Every state agency and local government in California should by default make their public data open and machine readable unless there is a compelling reason otherwise. That should include the dollars spent on legacy information technology systems (at the level of detail of StackShare.io unless there is a compelling reason otherwise) and data detailing all public procurement.
 1. California should prioritize standardizing datasets critical to basic public
    services – such as Consolidated Annual Financial Reports (“CAFRs”) and parcel
    level zoning information – across government agencies to enable collaboration
