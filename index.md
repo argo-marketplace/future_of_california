@@ -128,29 +128,8 @@ government operates in California and beyond:
 1. Regional and local governments should be incentivized to collaborate and jointly procure technology and services to implement these principles. By aggregating demand and developing standards to meet common needs, California governments can save money while deploying better public technology. In addition, the state of California should create an ["opportunity fund"](https://github.com/argo-marketplace/future_of_california/issues/12) to invest in best in class public technology and those moneys could come from a new ["no-lose lottery"](http://freakonomics.com/podcast/say-no-no-lose-lottery-rebroadcast/) that incentivizes Californians to save for the future. 
 1. California should have the courage to ["burn the wagons"](https://medium.com/a-r-g-o/how-ending-traffic-in-la-will-save-the-world-or-the-opportunity-for-a-breakthrough-in-global-3739fc4f4066) and lead the world boldly into the future. To avoid being trapped by past accidents of history, California should undertake a comprehensive review examining how to modernize obsolete and consolidate duplicative government agencies like California's two state water agencies. The results of that review should have be placed unmodified for an up or down vote. 
 
-## Subscribe to our mailing list
+## Learn More and Stay In Touch
 
-<div id="mc_embed_signup">
-  <form action="https://ARGOlabs.us17.list-manage.com/subscribe/post?u=bbd2025a1954e67e54dcfd5f6&amp;id=76d83dcaa1" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-    <div id="mc_embed_signup_scroll">
-      <div class="mc-field-group">
-        <label for="mce-EMAIL">Email Address  </label>
-        <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
-      </div>
-      <div class="mc-field-group">
-        <label for="mce-FNAME">First Name </label>
-        <input type="text" value="" name="FNAME" class="" id="mce-FNAME">
-      </div>
-      <div class="mc-field-group">
-	<label for="mce-LNAME">Last Name </label>
-        <input type="text" value="" name="LNAME" class="" id="mce-LNAME">
-      </div>
-      <div id="mce-responses" class="clear">
-        <div class="response" id="mce-error-response" style="display:none"></div>
-        <div class="response" id="mce-success-response" style="display:none"></div>
-      </div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-      <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_bbd2025a1954e67e54dcfd5f6_76d83dcaa1" tabindex="-1" value=""></div>
-      <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
-    </div>
-  </form>
-</div>
+- California Adaptive Technology Initiative as a response to the creation of the Department of Goverment Efficiency. Get it? CATs and DOGE yuck yuck yuck. See here for a [blog post](https://pioneeringspirit.xyz/introducing-the-california-transformation-cat-principles-for-moar-efficient,-effective-and-imaginative-government-operations-v01) and [here for another](https://pioneeringspirit.xyz/how-the-mild-meow-beat-the-boisterous-bark). That's since evolved into a more nuanced perspective see the Edge pop up city as the evil twin rather than DOGE. Really both CATs and DOGE are working from the center of established institutions albeit from similar angles. CATs and DOGEs of the world, unite!
+
+- The seeding the second foundaiton blog post series provides that evolved perspective of on we might improve government operations building on both activity in California, the latest from the federal level and all the things occuring accross our pale blue dot. Learn more about various protocols in this blog chain. [Here is as good a point as any to dive in](https://pioneeringspirit.xyz/seeding-the-second-foundation-the-evil-morty-protocol-to-upend-the-consultant-industrial-complex).
