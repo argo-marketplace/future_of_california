@@ -24,7 +24,9 @@ The California Department of Conservation's [Farmland Mapping and Monitoring Pro
 
 Use the slider or press **Play** to animate through the years. Each color represents a different land classification from the FMMP survey.
 
-<iframe src="/california-counts/static/farmland-map.html" width="100%" height="640" style="border: none; border-radius: 4px; margin: 1rem 0;" loading="lazy"></iframe>
+<iframe src="../static/farmland-map.html" width="100%" height="640" style="border: none; border-radius: 4px; margin: 1rem 0;" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+
+*[Open the interactive map in a new tab](../static/farmland-map.html) if the embedded map doesn't display.*
 
 ---
 
