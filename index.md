@@ -128,6 +128,16 @@ government operates in California and beyond:
 1. Regional and local governments should be incentivized to collaborate and jointly procure technology and services to implement these principles. By aggregating demand and developing standards to meet common needs, California governments can save money while deploying better public technology. In addition, the state of California should create an ["opportunity fund"](https://github.com/argo-marketplace/future_of_california/issues/12) to invest in best in class public technology and those moneys could come from a new ["no-lose lottery"](http://freakonomics.com/podcast/say-no-no-lose-lottery-rebroadcast/) that incentivizes Californians to save for the future. 
 1. California should have the courage to ["burn the wagons"](https://medium.com/a-r-g-o/how-ending-traffic-in-la-will-save-the-world-or-the-opportunity-for-a-breakthrough-in-global-3739fc4f4066) and lead the world boldly into the future. To avoid being trapped by past accidents of history, California should undertake a comprehensive review examining how to modernize obsolete and consolidate duplicative government agencies like California's two state water agencies. The results of that review should have be placed unmodified for an up or down vote. 
 
+## California Counts
+
+Explore data-driven analyses of California government spending and operations
+using open public data from [Open FI$Cal](https://open.fiscal.ca.gov/) and
+other sources.
+
+**[Visit California Counts →]({{ site.baseurl }}/california-counts/)**
+
+Latest: [What the Governor's Checkbook Tells Us]({{ site.baseurl }}/california-counts/governors-office-spending)
+
 ## Learn More and Stay In Touch
 
 - California Adaptive Technology Initiative as a response to the creation of the Department of Goverment Efficiency. Get it? CATs and DOGE yuck yuck yuck. See here for a [blog post](https://pioneeringspirit.xyz/introducing-the-california-transformation-cat-principles-for-moar-efficient,-effective-and-imaginative-government-operations-v01) and [here for another](https://pioneeringspirit.xyz/how-the-mild-meow-beat-the-boisterous-bark). That's since evolved into a more nuanced perspective see the Edge pop up city as the evil twin rather than DOGE. Really both CATs and DOGE are working from the center of established institutions albeit from similar angles. CATs and DOGEs of the world, unite!

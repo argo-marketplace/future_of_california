@@ -6,3 +6,6 @@ description: >-
 contact_email: argo@argolabs.org
 
 theme: jekyll-theme-minimal
+
+exclude:
+  - california-counts
