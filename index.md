@@ -136,7 +136,7 @@ other sources.
 
 **[Visit California Counts →]({{ site.baseurl }}/california-counts/)**
 
-Latest: [What the Governor's Checkbook Tells Us]({{ site.baseurl }}/california-counts/governors-office-spending)
+Latest: [California's Disappearing Farmland]({{ site.baseurl }}/california-counts/california-farmland-loss) | [What the Governor's Checkbook Tells Us]({{ site.baseurl }}/california-counts/governors-office-spending)
 
 ## Learn More and Stay In Touch
 
