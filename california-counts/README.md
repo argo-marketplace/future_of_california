@@ -7,6 +7,7 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 ## Posts
 
 - [What the Governor's Checkbook Tells Us](content/governors-office-spending.md) — An analysis of Governor's Office (Dept. 0500) spending from FY19-FY24 using Open FI$Cal data
+- [Inside the Back Office](content/govops-back-office.md) — What a decade of GovOps (Dept. 0511) spending data reveals about who actually runs state government
 
 ## Contributing
 

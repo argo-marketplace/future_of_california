@@ -9,3 +9,4 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 ## Analyses
 
 - [[governors-office-spending|What the Governor's Checkbook Tells Us]]
+- [[govops-back-office|California Counts: Inside the Back Office]]
