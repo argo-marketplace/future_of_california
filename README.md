@@ -1,42 +1,42 @@
-# The Future of California v 1.3
+# The Future of California
 
-![California Dreaming Map](images/california-dreaming-pano.jpg)
+A digital garden exploring California as it is and how we might work together to make it better.
 
-H/T [IFTF California Dreaming Map](http://www.iftf.org/our-work/global-landscape/human-settlement/california-dreaming-map/)
+**Live site:** [futureofcalifornia.org](https://futureofcalifornia.org)
 
-This repo exists to help pioneer a brighter future in California and beyond. The [principles articulated here](https://argo-marketplace.github.io/future_of_california/) aim to accelerate good government through great public technology.
+## About
 
-_Context:_ ["The public works of the digital era have yet to be built. The opportunity is huge"](https://apolitical.co/solution_article/public-investment-made-california-great-its-time-for-the-next-wave/)
+From the world's largest port to the nation's first freeways to pioneering aqueducts, California's history has been defined by visionary public works. This repository is an open, evolving collection of ideas for the next generation of those works — public technology, institutional reform, data infrastructure, and education ecosystems worthy of California's people.
 
-## Please Contribute!
+This project originated as the [California Public Technology Principles](https://argo-marketplace.github.io/future_of_california/), developed through the CA Public Technology Roundtable. It is forked from [argo-marketplace/future_of_california](https://github.com/argo-marketplace/future_of_california) and has since grown to encompass a broader vision.
 
-We're a coalition of Code for America brigades, journalists, local activists, reform groups, and public officials committed to the cause of modernizing how California government operates so the state can lead the world into a more free and open future. 
+## Built With
 
-Please see here for the latest version of the [California Public Technology Principles.](https://argo-marketplace.github.io/future_of_california/) Please feel free to [create an Issue](https://help.github.com/articles/creating-an-issue/) (less technical) OR [submit a Pull Request](https://help.github.com/articles/creating-a-pull-request/) (more technical) to suggest improvements to the principles. 
+- [Quartz v4](https://quartz.jzhao.xyz/) — static site generator for digital gardens
+- [Cloudflare Pages](https://pages.cloudflare.com/) — hosting
+- Markdown content, wikilinks, backlinks, graph view
 
-*If you're not familiar with GitHub please feel free to email **argo@argolabs.org** with your suggestions.*
+## Local Development
 
-## Implementation Activity
+```bash
+git clone https://github.com/patwater/future_of_california.git
+cd future_of_california
+npm i
+npx quartz build --serve
+```
 
-There is a robust discussion in the [issues of this Future of California repo](https://github.com/argo-marketplace/future_of_california/issues) around creative ideas to implement these principles. 
+## Deploy
 
-Also please see the [_CA_data_collaborations_ subfolder](https://github.com/argo-marketplace/future_of_california/tree/master/CA_data_collaborations) for an ongoing effort to map public data collaborations in California and beyond.
+Deployed automatically via Cloudflare Pages on push to `v4` branch.
 
-As of 12/14/18 there is a NYU CUSP graduate student team focused on pulling data from the GitHub API from government repos in California and beyond. 
-
-More to come! Please share your ideas and better yet share what actions you are taking to pioneer a brighter future for humans in California and beyond.
+Build command: `npx quartz build`
+Build output: `public`
+Production branch: `v4`
 
 ## Contributing
 
-Learn more about how you can [CONTRIBUTE](CONTRIBUTING.md).
+See [CONTRIBUTING.md](CONTRIBUTING.md). Please consider the lesson of [Chesterton's Fence](https://en.wikipedia.org/wiki/Wikipedia:Chesterton%27s_fence) before proposing changes.
 
+## License
 
-
-
-
-
-
-
-
-
-
+MIT

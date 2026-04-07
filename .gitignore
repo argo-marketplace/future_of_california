@@ -1,4 +1,11 @@
-_site
-california-counts/node_modules/
-california-counts/.quartz-cache/
-california-counts/public/
+.DS_Store
+.gitignore
+node_modules
+public
+prof
+tsconfig.tsbuildinfo
+.obsidian
+.quartz-cache
+private/
+.replit
+replit.nix
