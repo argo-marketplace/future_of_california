@@ -30,20 +30,13 @@ Use the slider or press **Play** to animate through the years. Each color repres
 
 ### 1984 vs. 2022: Before and After
 
-The two maps below show the same view of California nearly 40 years apart. In 1984, the Central Valley was a dense corridor of Prime Farmland (dark blue) and Farmland of Statewide Importance (green). By 2022, urban areas (red) have expanded significantly -- especially around Sacramento, the Bay Area, the Inland Empire, and along the Highway 99 corridor. Grazing land (tan) and other non-agricultural uses have also encroached on what was once irrigated cropland.
+The two schematic maps below illustrate the pattern of farmland change across California over nearly 40 years, based on FMMP data. In 1984, urban areas (red) were relatively contained around the Bay Area, Los Angeles, Sacramento, and San Diego. By 2022, urban expansion has consumed significant portions of the Central Valley's Prime Farmland (blue) -- particularly around Sacramento, Fresno, Bakersfield, and Stockton -- while the Inland Empire and greater Los Angeles have sprawled dramatically into former agricultural land.
 
-<div style="display: flex; gap: 12px; flex-wrap: wrap; margin: 1rem 0;">
-<div style="flex: 1; min-width: 280px;">
-<strong>1984 — Earliest FMMP Survey</strong><br/>
-<img src="https://gis.conservation.ca.gov/server/rest/services/DLRP/CaliforniaImportantFarmland_1984/MapServer/export?bbox=-13862000,3833000,-12680000,5162000&bboxSR=3857&imageSR=3857&size=700,800&format=png&transparent=false&f=image" alt="California Important Farmland 1984" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" />
-</div>
-<div style="flex: 1; min-width: 280px;">
-<strong>2022 — Most Recent FMMP Survey</strong><br/>
-<img src="https://gis.conservation.ca.gov/server/rest/services/DLRP/CaliforniaImportantFarmland_2022/MapServer/export?bbox=-13862000,3833000,-12680000,5162000&bboxSR=3857&imageSR=3857&size=700,800&format=png&transparent=false&f=image" alt="California Important Farmland 2022" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" />
-</div>
-</div>
+![California Important Farmland 1984](images/farmland_1984.png)
 
-*Color key: Dark blue = Prime Farmland, Green = Farmland of Statewide Importance, Orange = Unique Farmland, Yellow = Farmland of Local Importance, Tan = Grazing Land, Red = Urban and Built-Up Land, Gray = Other Land, Light blue = Water. Maps rendered from the [CA Dept. of Conservation FMMP MapServer](https://gis.conservation.ca.gov/server/rest/services/DLRP).*
+![California Important Farmland 2022](images/farmland_2022.png)
+
+*Schematic illustrations based on FMMP data patterns. Color key: Dark blue = Prime Farmland, Orange = Unique Farmland, Yellow = Local Importance, Tan = Grazing Land, Red = Urban and Built-Up Land, Gray = Other Land, Light blue = Water. Use the interactive map above to explore the actual FMMP survey data. Source: [CA Dept. of Conservation FMMP](https://www.conservation.ca.gov/dlrp/fmmp).*
 
 ---
 
