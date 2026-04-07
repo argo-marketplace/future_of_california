@@ -28,6 +28,23 @@ Use the slider or press **Play** to animate through the years. Each color repres
 
 *[Open the interactive map in a new tab](../static/farmland-map.html) if the embedded map doesn't display.*
 
+### 1984 vs. 2022: Before and After
+
+The two maps below show the same view of California nearly 40 years apart. In 1984, the Central Valley was a dense corridor of Prime Farmland (dark blue) and Farmland of Statewide Importance (green). By 2022, urban areas (red) have expanded significantly -- especially around Sacramento, the Bay Area, the Inland Empire, and along the Highway 99 corridor. Grazing land (tan) and other non-agricultural uses have also encroached on what was once irrigated cropland.
+
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin: 1rem 0;">
+<div style="flex: 1; min-width: 280px;">
+<strong>1984 — Earliest FMMP Survey</strong><br/>
+<img src="https://gis.conservation.ca.gov/server/rest/services/DLRP/CaliforniaImportantFarmland_1984/MapServer/export?bbox=-13862000,3833000,-12680000,5162000&bboxSR=3857&imageSR=3857&size=700,800&format=png&transparent=false&f=image" alt="California Important Farmland 1984" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" />
+</div>
+<div style="flex: 1; min-width: 280px;">
+<strong>2022 — Most Recent FMMP Survey</strong><br/>
+<img src="https://gis.conservation.ca.gov/server/rest/services/DLRP/CaliforniaImportantFarmland_2022/MapServer/export?bbox=-13862000,3833000,-12680000,5162000&bboxSR=3857&imageSR=3857&size=700,800&format=png&transparent=false&f=image" alt="California Important Farmland 2022" style="width: 100%; border: 1px solid #ccc; border-radius: 4px;" />
+</div>
+</div>
+
+*Color key: Dark blue = Prime Farmland, Green = Farmland of Statewide Importance, Orange = Unique Farmland, Yellow = Farmland of Local Importance, Tan = Grazing Land, Red = Urban and Built-Up Land, Gray = Other Land, Light blue = Water. Maps rendered from the [CA Dept. of Conservation FMMP MapServer](https://gis.conservation.ca.gov/server/rest/services/DLRP).*
+
 ---
 
 ## Where Farmland Is Disappearing
