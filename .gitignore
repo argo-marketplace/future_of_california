@@ -1,4 +1,5 @@
 _site
+.sass-cache/
 california-counts/node_modules/
 california-counts/.quartz-cache/
 california-counts/public/
