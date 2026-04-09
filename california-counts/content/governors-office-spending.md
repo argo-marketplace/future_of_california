@@ -26,7 +26,7 @@ Governor's Office total spending grew from $23 million in FY19 to $30.2 million 
 
 But the interesting story isn't the total. It's the composition.
 
-![Governor's Office Total Spending, FY19-FY24](images/chart1_total.png)
+![Governor's Office Total Spending, FY19-FY24](./images/chart1_total.png)
 
 ---
 
@@ -34,11 +34,11 @@ But the interesting story isn't the total. It's the composition.
 
 The Governor's Office is, above all, a people operation. Personnel costs (salaries, wages, benefits) consumed 86% of the budget in FY19 and rose to 90% by FY24. Operating expenses actually *fell* from $3.2 million to $2.6 million, even as the office grew.
 
-![Personnel vs. Operating Spending](images/chart2_personnel_ops.png)
+![Personnel vs. Operating Spending](./images/chart2_personnel_ops.png)
 
 Where the money goes: exempt and statutory employee earnings, which is to say the political appointees and senior staff, not the civil service lifers. Exempt employee pay totaled $13.4 million in FY19 and $19.6 million by FY24, a 45% jump. Meanwhile, permanent civil service earnings barely moved, hovering around $200,000 across all seven years.
 
-![Exempt/Statutory Employee Earnings](images/chart3_exempt_civil.png)
+![Exempt/Statutory Employee Earnings](./images/chart3_exempt_civil.png)
 
 That ratio is striking. For every dollar the Governor's Office spent on civil service salaries, it spent roughly 66 times more on exempt positions in FY19. By FY24, that ratio had climbed to 96 to 1.
 
@@ -62,7 +62,7 @@ The data can't answer that second question. But it can tell us where the money g
 
 Operating expenses peaked at $4.6 million in FY22 and dropped to $2.6 million by FY24. That's a 44% operating cut even as personnel costs continued rising. A few line items tell the story.
 
-![Selected Operating Categories](images/chart4_operating.png)
+![Selected Operating Categories](./images/chart4_operating.png)
 
 IT spending fell from $2 million in FY19 to $1.2 million in FY24, a 39% decline. This is odd for an office that claims to be modernizing government through data and innovation. You can't digitally transform much while cutting your technology budget by two-fifths.
 
