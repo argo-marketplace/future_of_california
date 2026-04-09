@@ -26,7 +26,7 @@ Then the line goes vertical.
 
 By FY2019, spending hit $128 million. By FY2020, it reached $277 million. A quiet coordinating office had become, briefly, one of the largest spending operations in state government. The total across those two fiscal years alone: over $400 million.
 
-![GovOps Secretary Office: Total Spending by Category](images/govops_total_spending.png)
+![GovOps Secretary Office: Total Spending by Category](./images/govops_total_spending.png)
 
 What happened? The Census.
 
@@ -42,7 +42,7 @@ But look at the composition of that spending. Of the $437 million in total consu
 
 This gap matters because of what the spending data reveals about the office's ongoing structure. After the Census surge receded, GovOps didn't return to its $3 million baseline. It settled into a new steady state of roughly $25 to $33 million per year. Personnel spending, which had tripled from $2.6 million in FY2016 to about $9.6 million by FY2020, stayed elevated. It even spiked to $14.4 million in FY2022 before settling around $10-11 million. The office had grown, and it wasn't shrinking back.
 
-![GovOps Secretary Office: Personnel Spending](images/govops_personnel.png)
+![GovOps Secretary Office: Personnel Spending](./images/govops_personnel.png)
 
 The reason is a genuine expansion of mission. In 2019, the Newsom administration created the Office of Digital Innovation within GovOps with a $36 million first-year budget. In 2022, ODI merged with CalData and the Government Excellence and Transformation Center to form the Office of Data and Innovation, now responsible for the state's Chief Data Officer, the California Design System, CalAcademy training, and a growing portfolio of data projects with departments ranging from Housing and Community Development to the Division of Drinking Water.
 
@@ -54,7 +54,7 @@ Here is the tension at the heart of this data, though.
 
 Even in its steady state, the GovOps Secretary's office spends roughly as much on consulting and professional services as it does on its own staff. In the FY2022 through FY2024 period, consulting averaged $12.7 million per year against $7.9 million in salaries and $3.6 million in benefits. The office that exists to make state government more capable, more innovative, more technologically adept, relies on external contractors for nearly half its work.
 
-![Consulting vs. Personnel: Where the Money Goes](images/govops_consulting_vs_personnel.png)
+![Consulting vs. Personnel: Where the Money Goes](./images/govops_consulting_vs_personnel.png)
 
 Government consulting serves real purposes. Specialized skills on short timelines. Surge capacity for one-time efforts like the Census. Expertise that state salary bands can't attract permanently. But the pattern is worth naming because it runs directly counter to the office's own stated mission. GovOps is supposed to be building state capacity. Yet its own spending structure embodies the opposite model: a thin layer of permanent staff managing a rotating cast of contracted specialists.
 
