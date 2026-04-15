@@ -50,17 +50,36 @@ The loss isn't evenly distributed. The areas under greatest pressure are:
 
 **The Bay Area periphery.** The eastern and southern edges of the San Francisco Bay Area -- Contra Costa, eastern Alameda, Santa Clara, and Solano counties -- have experienced steady agricultural erosion as the tech economy pushed development outward.
 
-## The Cost of Conversion
+## The Cost of Conversion: By the Numbers
 
-Not all farmland is equal. Prime Farmland represents the best combination of soil quality, growing season, and water supply for sustained high-yield production. Of the 1.6 million acres lost statewide, over half was Prime Farmland or Farmland of Statewide Importance. Once this land is paved over for development, it is irreversibly lost as an agricultural resource.
+Not all farmland is equal. Prime Farmland represents the best combination of soil quality, growing season, and water supply for sustained high-yield production. Of the 1.6 million acres lost statewide since 1984, over half was Prime Farmland or Farmland of Statewide Importance -- the two highest-quality categories. Once this land is paved over, it is irreversibly lost as an agricultural resource.
 
-The FMMP classifies agricultural land into several categories:
+The charts below break down statewide acreage across all five agricultural land categories tracked by FMMP, from the first survey in 1984 through the most recent in 2022.
 
-- **Prime Farmland**: Best soils, irrigated, highest sustained yields
-- **Farmland of Statewide Importance**: Similar to Prime but with minor limitations (slope, drainage)
-- **Unique Farmland**: Lower-quality soils producing high-value specialty crops
-- **Farmland of Local Importance**: Land meeting local criteria for agricultural significance
-- **Grazing Land**: Vegetation suitable for livestock grazing
+<iframe src="../static/farmland-charts.html" width="100%" height="1060" style="border: none; border-radius: 4px; margin: 1rem 0;" loading="lazy" sandbox="allow-scripts allow-same-origin"></iframe>
+
+*[Open charts in a new tab](../static/farmland-charts.html)*
+
+### What the Charts Show
+
+**Chart 1 — The big picture.** Grazing Land dominates California's agricultural footprint (~14.4–14.9 million acres), followed by Prime Farmland (~5.0–5.9 million acres) and Farmland of Statewide Importance (~3.0–3.2 million acres). All three major categories show a consistent downward trend since 1984, while the categories are visually shrinking relative to prior periods.
+
+**Chart 2 — Two lines, one story.** Prime Farmland declined from ~5.9 million acres in 1984 to ~5.0 million in 2022 — an 866,000-acre loss (~15%). Grazing Land fell from ~14.9 million to ~14.4 million over the same period (~500,000 acres). Both declines are steady but not uniform: the mid-1990s to mid-2000s housing boom accelerated losses, while the 2008–2012 recession briefly slowed the pace.
+
+**Chart 3 — The economics of conversion.** The bar chart shows net change per survey period for urban growth (red, always positive) vs. Important Farmland loss (blue, always negative). A few patterns stand out:
+- **The boom years (1996–2008)**: Urban expansion peaked, with some periods adding 70–130k acres of developed land in just two years
+- **The recession pause (2008–2012)**: Both urban growth and farmland loss slowed dramatically as construction stalled
+- **The post-2012 resumption**: Growth returned, but the character shifted -- logistics and distribution centers replaced single-family subdivisions as the dominant driver in the Central Valley and Inland Empire
+
+### FMMP Land Classification Categories
+
+The FMMP classifies agricultural land into five main categories:
+
+- **Prime Farmland**: Best soils, irrigated, highest sustained yields. Requires active agricultural use in 4 of the prior 4 years to qualify.
+- **Farmland of Statewide Importance**: Similar to Prime but with minor limitations (slope, drainage). Also requires irrigated use.
+- **Unique Farmland**: Lower-quality soils used to produce the state's leading specialty crops -- wine grapes, tree fruits, avocados.
+- **Farmland of Local Importance**: Productive lands meeting local criteria but not state-level irrigation requirements.
+- **Grazing Land**: Vegetation suited to livestock grazing. The largest category by area, covering California's foothills, coastal ranges, and deserts.
 
 ## Policy Context
 

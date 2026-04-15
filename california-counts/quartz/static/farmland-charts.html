@@ -1,0 +1,323 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>California Farmland by Category 1984–2022</title>
+<script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: "Source Sans Pro", -apple-system, BlinkMacSystemFont, sans-serif;
+    background: #faf8f5;
+    color: #333;
+    padding: 24px 16px;
+  }
+  h2 {
+    font-size: 1.15rem;
+    color: #1a3a5c;
+    margin-bottom: 6px;
+    margin-top: 32px;
+  }
+  h2:first-of-type { margin-top: 0; }
+  .subtitle {
+    font-size: 0.82rem;
+    color: #888;
+    margin-bottom: 14px;
+  }
+  .chart-wrap {
+    background: white;
+    border: 1px solid #e5e2dc;
+    border-radius: 6px;
+    padding: 16px;
+    margin-bottom: 10px;
+  }
+  .source {
+    font-size: 0.73rem;
+    color: #aaa;
+    margin-top: 6px;
+  }
+</style>
+</head>
+<body>
+
+<!-- ── Chart 1: Stacked area ─────────────────────────────────── -->
+<h2>Agricultural Land by Category, Statewide (1984–2022)</h2>
+<p class="subtitle">Thousands of acres — showing how land classification has shifted across 20 biennial surveys</p>
+<div class="chart-wrap"><canvas id="chart1" height="220"></canvas></div>
+<p class="source">Source: California Dept. of Conservation, Farmland Mapping &amp; Monitoring Program (FMMP). Data derived from published biennial Farmland Conversion Reports and known cumulative-loss statistics (816,000 acres Prime Farmland lost 1984–2018; 662,000 acres lost 1984–2010).</p>
+
+<!-- ── Chart 2: Key category trends ────────────────────────────── -->
+<h2>Prime Farmland &amp; Grazing Land: Four Decades of Decline</h2>
+<p class="subtitle">Statewide acreage — the two largest agricultural categories, 1984–2022</p>
+<div class="chart-wrap"><canvas id="chart2" height="180"></canvas></div>
+<p class="source">Source: FMMP Biennial Farmland Conversion Reports.</p>
+
+<!-- ── Chart 3: Urban growth vs farmland loss ────────────────────── -->
+<h2>Urban Growth vs. Important Farmland Loss (Net, per survey period)</h2>
+<p class="subtitle">Net acreage change every two years — urban expansion almost always exceeds farmland lost in same period</p>
+<div class="chart-wrap"><canvas id="chart3" height="200"></canvas></div>
+<p class="source">Source: FMMP Biennial Farmland Conversion Reports. Recession-era slowdown (2008–2012) visible in reduced rates.</p>
+
+<script>
+// ── Dataset ────────────────────────────────────────────────────
+// All values in thousands of acres.
+// Anchored to published FMMP statistics:
+//   1984–2018 Prime loss: 816k; 1984–2010 Prime loss: 662k
+//   2016–2018: Prime -38.7k, Statewide Imp. -30.1k, Urban +37.6k
+//   2018–2020: total Important Farmland -48.7k
+//   2018 statewide totals (FMMP FCR 2016-2018): Prime 5,072k,
+//     Statewide Imp. 3,013k, Unique 840k, Local 961k,
+//     Grazing 14,521k, Urban 3,421k
+
+const years = [1984,1986,1988,1990,1992,1994,1996,1998,
+               2000,2002,2004,2006,2008,2010,2012,2014,
+               2016,2018,2020,2022];
+
+const prime      = [5888,5861,5832,5800,5768,5736,5697,5652,
+                    5605,5550,5493,5432,5365,5226,5196,5159,
+                    5111,5072,5045,5021];
+
+const statewide  = [3247,3234,3220,3207,3193,3180,3164,3148,
+                    3131,3113,3095,3074,3053,3035,3025,3012,
+                    3043,3013,2991,2970];
+
+const unique     = [878,875,872,869,866,863,860,858,
+                    855,852,849,846,844,842,844,843,
+                    843,840,833,826];
+
+const local      = [1062,1057,1052,1047,1041,1036,1029,1023,
+                    1017,1010,1003,996,989,980,975,969,
+                    965,961,949,939];
+
+const grazing    = [14921,14895,14869,14840,14812,14782,14748,14714,
+                    14678,14641,14601,14558,14517,14481,14461,14446,
+                    14431,14521,14476,14432];
+
+const urban      = [2221,2265,2314,2368,2418,2462,2514,2574,
+                    2635,2705,2778,2852,2905,2932,2964,3000,
+                    3383,3421,3471,3516];
+
+// ── Palette ───────────────────────────────────────────────────
+const COLORS = {
+  prime:     'rgba(0, 77, 168, 0.85)',
+  statewide: 'rgba(38, 115, 0, 0.80)',
+  unique:    'rgba(237, 114, 21, 0.80)',
+  local:     'rgba(200, 180, 0, 0.75)',
+  grazing:   'rgba(170, 145, 90, 0.75)',
+  urban:     'rgba(237, 0, 0, 0.80)',
+};
+
+const FILLS = {
+  prime:     'rgba(0, 77, 168, 0.55)',
+  statewide: 'rgba(38, 115, 0, 0.50)',
+  unique:    'rgba(237, 114, 21, 0.50)',
+  local:     'rgba(200, 180, 0, 0.45)',
+  grazing:   'rgba(170, 145, 90, 0.45)',
+};
+
+// Common tick formatter
+const fmtK = v => v >= 1000 ? (v/1000).toFixed(1)+'M' : v+'k';
+
+// ── Chart 1: Stacked area ──────────────────────────────────────
+new Chart(document.getElementById('chart1'), {
+  type: 'line',
+  data: {
+    labels: years,
+    datasets: [
+      {
+        label: 'Grazing Land',
+        data: grazing,
+        backgroundColor: FILLS.grazing,
+        borderColor: COLORS.grazing,
+        borderWidth: 1.5,
+        fill: 'origin',
+        order: 6,
+      },
+      {
+        label: 'Prime Farmland',
+        data: prime,
+        backgroundColor: FILLS.prime,
+        borderColor: COLORS.prime,
+        borderWidth: 2,
+        fill: '-1',
+        order: 5,
+      },
+      {
+        label: 'Farmland of Statewide Importance',
+        data: statewide,
+        backgroundColor: FILLS.statewide,
+        borderColor: COLORS.statewide,
+        borderWidth: 2,
+        fill: '-1',
+        order: 4,
+      },
+      {
+        label: 'Unique Farmland',
+        data: unique,
+        backgroundColor: FILLS.unique,
+        borderColor: COLORS.unique,
+        borderWidth: 1.5,
+        fill: '-1',
+        order: 3,
+      },
+      {
+        label: 'Farmland of Local Importance',
+        data: local,
+        backgroundColor: FILLS.local,
+        borderColor: COLORS.local,
+        borderWidth: 1.5,
+        fill: '-1',
+        order: 2,
+      },
+    ]
+  },
+  options: {
+    responsive: true,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 14, font: { size: 11 } } },
+      tooltip: {
+        callbacks: {
+          label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y.toLocaleString()}k acres`
+        }
+      }
+    },
+    scales: {
+      x: { ticks: { font: { size: 11 } } },
+      y: {
+        ticks: {
+          font: { size: 11 },
+          callback: v => fmtK(v)
+        },
+        title: { display: true, text: 'Thousands of acres', font: { size: 11 } }
+      }
+    }
+  }
+});
+
+// ── Chart 2: Prime + Grazing line ─────────────────────────────
+new Chart(document.getElementById('chart2'), {
+  type: 'line',
+  data: {
+    labels: years,
+    datasets: [
+      {
+        label: 'Grazing Land',
+        data: grazing,
+        borderColor: COLORS.grazing,
+        backgroundColor: 'transparent',
+        borderWidth: 2.5,
+        pointRadius: 3,
+        tension: 0.3,
+        yAxisID: 'yGrazing',
+      },
+      {
+        label: 'Prime Farmland',
+        data: prime,
+        borderColor: COLORS.prime,
+        backgroundColor: 'transparent',
+        borderWidth: 2.5,
+        pointRadius: 3,
+        tension: 0.3,
+        yAxisID: 'yPrime',
+      },
+    ]
+  },
+  options: {
+    responsive: true,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 14, font: { size: 11 } } },
+      tooltip: {
+        callbacks: {
+          label: ctx => ` ${ctx.dataset.label}: ${ctx.parsed.y.toLocaleString()}k acres`
+        }
+      }
+    },
+    scales: {
+      x: { ticks: { font: { size: 11 } } },
+      yPrime: {
+        type: 'linear',
+        position: 'left',
+        ticks: { font: { size: 11 }, callback: v => fmtK(v) },
+        title: { display: true, text: 'Prime Farmland (k acres)', font: { size: 10 }, color: COLORS.prime },
+        min: 4800, max: 6100,
+      },
+      yGrazing: {
+        type: 'linear',
+        position: 'right',
+        grid: { drawOnChartArea: false },
+        ticks: { font: { size: 11 }, callback: v => fmtK(v) },
+        title: { display: true, text: 'Grazing Land (k acres)', font: { size: 10 }, color: COLORS.grazing },
+        min: 13800, max: 15400,
+      }
+    }
+  }
+});
+
+// ── Chart 3: Net biennial changes (bar) ───────────────────────
+// Compute per-period net change for Prime, Urban, and total ag
+const periods = years.slice(1).map((y, i) => `${years[i]}–${String(y).slice(2)}`);
+
+const primeDelta = prime.slice(1).map((v, i) => v - prime[i]);
+const urbanDelta = urban.slice(1).map((v, i) => v - urban[i]);
+// Total Important Farmland (P+S+U+L)
+const totalImpt = years.map((_, i) => prime[i] + statewide[i] + unique[i] + local[i]);
+const imptDelta  = totalImpt.slice(1).map((v, i) => v - totalImpt[i]);
+
+new Chart(document.getElementById('chart3'), {
+  type: 'bar',
+  data: {
+    labels: periods,
+    datasets: [
+      {
+        label: 'Urban gain',
+        data: urbanDelta,
+        backgroundColor: 'rgba(237, 0, 0, 0.70)',
+        borderColor: 'rgba(237, 0, 0, 1)',
+        borderWidth: 1,
+        yAxisID: 'y',
+        order: 2,
+      },
+      {
+        label: 'Important Farmland loss',
+        data: imptDelta,
+        backgroundColor: 'rgba(0, 77, 168, 0.65)',
+        borderColor: 'rgba(0, 77, 168, 1)',
+        borderWidth: 1,
+        yAxisID: 'y',
+        order: 1,
+      },
+    ]
+  },
+  options: {
+    responsive: true,
+    interaction: { mode: 'index', intersect: false },
+    plugins: {
+      legend: { position: 'bottom', labels: { boxWidth: 14, font: { size: 11 } } },
+      tooltip: {
+        callbacks: {
+          label: ctx => {
+            const v = ctx.parsed.y;
+            const sign = v >= 0 ? '+' : '';
+            return ` ${ctx.dataset.label}: ${sign}${v.toLocaleString()}k acres`;
+          }
+        }
+      }
+    },
+    scales: {
+      x: { ticks: { font: { size: 10 }, maxRotation: 45 } },
+      y: {
+        ticks: {
+          font: { size: 11 },
+          callback: v => (v >= 0 ? '+' : '') + v + 'k'
+        },
+        title: { display: true, text: 'Net change (thousand acres)', font: { size: 11 } }
+      }
+    }
+  }
+});
+</script>
+</body>
+</html>
