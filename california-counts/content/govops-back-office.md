@@ -75,3 +75,5 @@ The numbers, at least, are public. That's a start.
 *This is the third installment of California Counts, a data journalism series exploring California state spending using Open FI$Cal data. Previous posts examined the Governor's Office and the GovOps Secretary. All data and analysis available on request.*
 
 *Data source: [Open FI$Cal](https://open.fiscal.ca.gov/), California's financial transparency portal. Department 0511, GovOps Secretary, FY16 through FY25. Analysis performed in Python. All figures are unaudited expenditure data.*
+
+*Disclosure: This post was drafted with the assistance of an AI agent (Claude) and has not been independently verified by a human editor. All data sources are linked above and readers are encouraged to check the underlying data directly.*

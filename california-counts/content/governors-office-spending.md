@@ -99,3 +99,5 @@ The dream, of course, is that this becomes routine. Not one person poking around
 *Data source: [Open FI$Cal](https://open.fiscal.ca.gov/), California's financial transparency portal. Department 0500, Governor's Office, FY19 through FY25. Analysis performed in Python. All figures are unaudited expenditure data.*
 
 *This is the first installment of California Counts, a series using California's open data to ask questions about how the state spends your money. Got a dataset you want me to look at? Get in touch.*
+
+*Disclosure: This post was drafted with the assistance of an AI agent (Claude) and has not been independently verified by a human editor. All data sources are linked above and readers are encouraged to check the underlying data directly.*
