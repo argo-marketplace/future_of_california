@@ -166,6 +166,31 @@ The critical read / generous read framework is the canonical tool for navigating
 
 ---
 
+## Analysis Toolkit
+
+### Pandas Profiler (ydata-profiling)
+
+For exploratory data analysis of California open datasets, use `ydata-profiling` (formerly pandas-profiling) to generate automated EDA reports before writing a post. Install with `pip install ydata-profiling`. Basic usage:
+
+```python
+import pandas as pd
+from ydata_profiling import ProfileReport
+
+df = pd.read_csv("dataset.csv")
+profile = ProfileReport(df, title="California Counts EDA", explorative=True)
+profile.to_file("eda_report.html")
+```
+
+The profiler generates summary statistics, distributions, correlations, missing value analysis, and duplicate detection in a single pass. Use it as a first step when working with a new dataset to identify the most interesting variables, spot data quality issues, and surface the anomalies that become the anchors of a California Counts post. The HTML report is for internal analysis; do not publish it directly. Extract the findings and write them up using the standard post architecture.
+
+Useful profiler settings for government fiscal data:
+- `explorative=True` for deeper correlation and interaction analysis
+- `missing_diagrams={"bar": True, "matrix": True}` to visualize data completeness
+- `correlations={"pearson": {"calculate": True}, "spearman": {"calculate": True}}` for spending trend analysis
+- For large datasets (over 100,000 rows), use `minimal=True` to speed up profiling
+
+---
+
 ## What This Skill Does NOT Do
 
 - Produce charts or run Python (the user runs analysis; this skill drafts the prose around it)

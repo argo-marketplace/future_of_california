@@ -15,3 +15,4 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[grants-energy-transition|Buying the Transition]]
 - [[grants-housing-crisis|The Homekey Math]]
 - [[state-workforce-vacancies|One in Five Chairs Empty]]
+- [[hospital-utilization-trends|The Emptying Hospital]]
