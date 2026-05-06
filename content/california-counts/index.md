@@ -16,3 +16,4 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[grants-housing-crisis|The Homekey Math]]
 - [[state-workforce-vacancies|One in Five Chairs Empty]]
 - [[hospital-utilization-trends|The Emptying Hospital]]
+- [[prison-population-drawdown|The Billion-Dollar Drawdown]]
