@@ -17,3 +17,4 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[state-workforce-vacancies|One in Five Chairs Empty]]
 - [[hospital-utilization-trends|The Emptying Hospital]]
 - [[prison-population-drawdown|The Billion-Dollar Drawdown]]
+- [[energy-grid-transition|The Grid That Swallowed the Sun]]
