@@ -23,3 +23,6 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[ceqa-who-actually-sues|Who Actually Sues Under CEQA]]
 - [[autonomous-vehicles-driverless|The Ride Without a Driver]]
 - [[insurance-uninsurable-state|The Uninsurable State]]
+- [[water-rights-paper-water|The Water That Doesn't Exist]]
+- [[high-speed-rail-cost-spiral|The Train That Time Forgot]]
+- [[homelessness-spending-outcomes|The $24 Billion Question]]
