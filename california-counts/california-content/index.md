@@ -26,3 +26,5 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[water-rights-paper-water|The Water That Doesn't Exist]]
 - [[high-speed-rail-cost-spiral|The Train That Time Forgot]]
 - [[homelessness-spending-outcomes|The $24 Billion Question]]
+- [[cannabis-market-failure|The Legal Market That Isn't Winning]]
+- [[medi-cal-one-in-three|One in Three]]
