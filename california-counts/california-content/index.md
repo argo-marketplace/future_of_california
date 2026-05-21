@@ -31,3 +31,4 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[lottery-ticket-to-nowhere|The Lottery Ticket to Nowhere]]
 - [[ballot-initiatives-parallel-legislature|Government by Petition]]
 - [[ports-san-pedro-bay|The Port That Feeds the Machine]]
+- [[higher-education-master-plan|The Diploma and the Debt]]
