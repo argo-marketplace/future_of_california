@@ -32,3 +32,5 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[ballot-initiatives-parallel-legislature|Government by Petition]]
 - [[ports-san-pedro-bay|The Port That Feeds the Machine]]
 - [[higher-education-master-plan|The Diploma and the Debt]]
+- [[wildfire-fire-next-time|The Fire Next Time]]
+- [[earthquake-seismic-bet|The Seismic Bet]]
