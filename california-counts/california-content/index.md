@@ -37,3 +37,6 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[migration-exodus-myth|The Exodus That Wasn't]]
 - [[farmworkers-hands-that-feed|The Hands That Feed You]]
 - [[courts-justice-defunded|Justice Delayed, Justice Defunded]]
+- [[toxic-inheritance-cleanup|The Toxic Inheritance]]
+- [[broadband-desert-digital-divide|The Broadband Desert]]
+- [[foster-care-quiet-expulsion|The Foster System's Quiet Expulsion]]
