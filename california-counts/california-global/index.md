@@ -8,3 +8,4 @@ A data journalism series applying the California Counts method to international 
 
 - [[bilbao-guggenheim-effect|Bilbao: The Guggenheim Dividend]]
 - [[buenos-aires-open-data|Buenos Aires: The Data Capital of the South]]
+- [[singapore-talent-machine|Singapore: The Talent Machine]]
