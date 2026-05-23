@@ -34,3 +34,6 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[higher-education-master-plan|The Diploma and the Debt]]
 - [[wildfire-fire-next-time|The Fire Next Time]]
 - [[earthquake-seismic-bet|The Seismic Bet]]
+- [[migration-exodus-myth|The Exodus That Wasn't]]
+- [[farmworkers-hands-that-feed|The Hands That Feed You]]
+- [[courts-justice-defunded|Justice Delayed, Justice Defunded]]
