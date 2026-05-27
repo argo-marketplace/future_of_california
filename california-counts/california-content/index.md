@@ -50,3 +50,6 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[prop-13-frozen-in-1978|Frozen in 1978]]
 - [[childcare-missing-system|The Missing System]]
 - [[dams-aging-concrete|The Aging Concrete]]
+- [[licensed-state-permission-to-work|The Licensed State]]
+- [[underground-economy-unlicensed-build|The Underground Build]]
+- [[contractor-exam-gate-that-builds|The Gate That Builds California]]
