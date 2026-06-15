@@ -144,3 +144,5 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[pesticide-regulation-spray-zone|The Spray Zone]]
 - [[child-support-other-debt|The Other Debt]]
 - [[hospice-final-bill|The Final Bill]]
+- [[primary-turnout-quarter-who-showed-up|The Quarter Who Showed Up]]
+- [[wildfire-philanthropy-money-after-fire|The Money After the Fire]]
