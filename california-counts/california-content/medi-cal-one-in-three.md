@@ -1,0 +1,101 @@
+---
+title: "California Counts: One in Three"
+date: 2026-05-17
+tags:
+  - healthcare
+  - medi-cal
+  - budget
+  - data-journalism
+  - california-counts
+---
+
+# California Counts: One in Three
+## What 15.4 million enrollees, $174 billion in annual spending, and a managed care transformation reveal about the health plan that covers more people than most countries
+
+One in three Californians receives health coverage through Medi-Cal, the state's Medicaid program. With 15.4 million enrollees as of early 2026, Medi-Cal covers more people than the entire population of 45 individual U.S. states. It is the largest Medicaid program in the nation by enrollment, the single largest line item in California's state budget, and the primary source of healthcare for the state's children, low-income adults, seniors, and people with disabilities. Its annual budget of approximately $174 billion in combined state and federal funds exceeds the total government spending of most nations. It pays for one in three births in California, covers one in two children, and finances the majority of long-term care in the state. Medi-Cal is not a social safety net program in the traditional sense. At this scale, it is the healthcare system for the working class and the poor, the default coverage for the gig economy, and increasingly, the insurer of last resort for middle-income seniors who exhaust their savings in long-term care.
+
+---
+
+## The Enrollment Surge
+
+Medi-Cal enrollment was approximately 10.8 million in January 2020, already the largest Medicaid program in the country. Then the pandemic arrived. The Families First Coronavirus Response Act, signed in March 2020, conditioned enhanced federal Medicaid matching funds on a continuous enrollment requirement: states could not disenroll anyone from Medicaid during the public health emergency, regardless of changes in income or eligibility. California, which already had among the most generous Medicaid eligibility criteria in the nation, saw enrollment surge as people lost jobs and income, qualified for coverage, and could not be removed.
+
+By April 2023, when the continuous enrollment requirement ended, Medi-Cal had reached approximately 15.8 million enrollees, an increase of 5 million, or 46 percent, over three years. The "unwinding" process, the resumption of annual eligibility redeterminations, began in mid-2023. The state projected that 2 to 3 million enrollees would lose coverage through disenrollment, either because they no longer met income thresholds, had obtained employer-sponsored insurance, or failed to complete renewal paperwork.
+
+The unwinding has proceeded more slowly than projected. By early 2026, approximately 1.8 million people have been disenrolled through the redetermination process, roughly 400,000 to 600,000 fewer than initial projections. Some of those disenrolled have transitioned to Covered California marketplace plans. Others have become uninsured. The Department of Health Care Services has implemented "auto-renewal" procedures that use data matching with tax records, employment databases, and other state systems to verify eligibility without requiring enrollees to complete paperwork, reducing procedural disenrollments. Still, advocates estimate that hundreds of thousands of people who remain eligible have been disenrolled due to administrative failures: wrong addresses, unreturned mail, system errors, and language barriers.
+
+---
+
+## The Budget: $174 Billion
+
+Medi-Cal's total annual expenditure of approximately $174 billion in fiscal year 2025-26 combines state general fund dollars (approximately $37 billion), federal matching funds (approximately $88 billion), county and local contributions, and various other revenue sources including provider taxes and drug rebates. The federal government pays approximately 50 to 67 percent of Medi-Cal costs depending on the population category and service type, with higher matching rates for the ACA expansion population (90 percent federal) and certain targeted programs.
+
+The $37 billion state general fund contribution makes Medi-Cal the single largest expenditure in California's budget, exceeding K-12 education ($75 billion total Proposition 98, but shared with community colleges) and the University of California and California State University systems combined. In a state budget of approximately $310 billion in total spending, Medi-Cal consumes roughly 12 percent of the general fund directly, with additional off-budget costs through county realignment and provider tax mechanisms.
+
+The cost per enrollee averages approximately $11,300 per year across all populations, but this average conceals enormous variation. Healthy adults in the expansion population cost approximately $5,000 to $7,000 per year. Children cost approximately $3,000 to $4,000. Seniors and people with disabilities, who account for roughly 15 percent of enrollment but 40 percent of spending, cost $25,000 to $40,000 per year on average, driven primarily by long-term care, skilled nursing facilities, and high-cost chronic conditions.
+
+Long-term care is the single largest spending category for the aged and disabled population. Medi-Cal finances approximately 60 percent of all nursing home beds in California and is the primary payer for In-Home Supportive Services, a program that employs approximately 600,000 caregivers (many of them family members) to provide personal care to 700,000 elderly and disabled beneficiaries in their homes. IHSS alone costs approximately $16 billion per year, making it one of the largest public employment programs in the state.
+
+---
+
+## CalAIM: The Managed Care Transformation
+
+California Advancing and Innovating Medi-Cal, known as CalAIM, is the most ambitious Medicaid reform effort in the nation. Launched in phases beginning in January 2022, CalAIM transforms Medi-Cal from a program that pays for medical services into one that addresses the social determinants of health: housing, food insecurity, interpersonal violence, and social isolation. The theory is that medical care accounts for only 20 percent of health outcomes, while social and economic factors account for the remaining 80 percent. By addressing those upstream factors through the health plan, California aims to improve outcomes while reducing the costly emergency and institutional care that results from unaddressed social needs.
+
+CalAIM operates through the state's 25 managed care plans, which cover approximately 85 percent of Medi-Cal enrollees. The key innovations include Enhanced Care Management, which provides intensive care coordination for the highest-need enrollees; Community Supports, which allows managed care plans to pay for non-medical services including housing deposits, medically supportive food, respite care, and home modifications; and population health management requirements that obligate plans to stratify their enrollees by risk and proactively manage the health of entire populations rather than simply paying claims.
+
+The most radical element is the housing-related Community Supports. For the first time, a Medicaid program is paying for housing transition navigation services, housing deposits, and short-term post-hospitalization housing for people experiencing or at risk of homelessness. The theory is that a person discharged from a hospital to the street will return to the emergency department within days, costing the system far more than a housing deposit would have. Early data from pilot programs suggests emergency department utilization declines 30 to 50 percent when chronically homeless individuals are placed in stable housing with wraparound services.
+
+Whether CalAIM will achieve its goals at the system level remains unproven. The transformation requires managed care plans to build capabilities they have never had: community partnerships, social service referral networks, housing navigation capacity, and data systems that track social needs alongside clinical ones. Many plans are still building these capabilities. Implementation has been uneven across the state's 58 counties.
+
+---
+
+## The Provider Crisis
+
+Medi-Cal pays providers among the lowest rates in the nation. A 2024 analysis by the California Health Care Foundation found that Medi-Cal reimburses primary care physicians at approximately 56 percent of Medicare rates and approximately 35 percent of commercial insurance rates. Specialty care reimbursement is similarly low. The result is that many physicians limit or refuse Medi-Cal patients. A 2023 survey found that only 69 percent of California physicians accept new Medi-Cal patients, compared to 85 percent accepting new commercially insured patients.
+
+The provider shortage is most acute in rural areas, in behavioral health, and in specialty care. Wait times for specialty appointments through Medi-Cal average 30 to 90 days depending on the specialty and region, compared to 14 to 21 days for commercially insured patients. In behavioral health, the shortage is critical: California's Medi-Cal behavioral health system was the subject of a federal consent decree (the Katie A. settlement) and ongoing Department of Justice oversight for failure to provide timely access to mental health services for children.
+
+AB 1130, signed in 2023, provided a historic $1.7 billion annual increase in Medi-Cal provider reimbursement rates, funded by a managed care organization tax. The rate increase, the largest in the program's history, brought primary care rates closer to Medicare levels and increased rates for a range of specialty and behavioral health services. Whether the rate increase translates into improved access depends on whether physicians respond to the higher rates by accepting more Medi-Cal patients, a response that research suggests is gradual rather than immediate.
+
+The In-Home Supportive Services workforce represents a separate provider crisis. IHSS caregivers are paid $16 to $21 per hour depending on the county, below the wage needed to attract and retain workers in California's high-cost labor market. Caregiver shortages leave elderly and disabled beneficiaries without authorized hours of care, particularly in urban areas where alternative employment at higher wages is readily available.
+
+---
+
+## The Pharmacy Transformation: CalRx and Cost Control
+
+California launched CalRx, a state-branded generic drug label, in 2023. The initiative uses the state's purchasing power to manufacture or contract for generic drugs at reduced prices. The first CalRx product was naloxone (Narcan), distributed free to combat the opioid crisis. Subsequent products include insulin, available at $30 per vial compared to retail prices of $300 or more, and generic versions of high-cost specialty medications.
+
+Separately, Medi-Cal's pharmacy benefit transitioned from managed care plans to a single statewide fee-for-service model called Medi-Cal Rx in January 2022. The transition consolidated drug purchasing and rebate negotiations under the Department of Health Care Services, which projected $750 million in annual savings from enhanced federal rebates and consolidated purchasing power. The transition was rocky: pharmacies reported payment delays, prior authorization confusion, and system errors that prevented beneficiaries from filling prescriptions during the first months.
+
+Drug spending in Medi-Cal is approximately $20 billion per year, driven increasingly by high-cost specialty medications for hepatitis C, cancer, autoimmune conditions, and rare diseases. A single course of the hepatitis C cure costs $20,000 to $30,000, though California negotiated supplemental rebates that reduce the effective cost. GLP-1 receptor agonists for diabetes and weight loss (Ozempic, Wegovy, Mounjaro) represent a looming budget threat: if prescribed broadly to the Medi-Cal population at commercial prices of $12,000 to $16,000 per year, the cost could reach tens of billions. The Department of Health Care Services has implemented clinical criteria limiting GLP-1 access to specific populations, a policy that reduces costs but raises equity concerns about access to effective medications.
+
+---
+
+## The Interpretive Tension
+
+The critical read is that Medi-Cal is a program that covers one in three Californians at rock-bottom reimbursement rates, creating a two-tier healthcare system where the poor wait months for specialists, receive care from overloaded safety-net providers, and experience outcomes worse than the commercially insured population. The $174 billion annual budget is enormous in absolute terms but translates to per-enrollee spending roughly 60 percent of the national Medicaid average when adjusted for California's cost of living. The provider shortage is a direct result of rates so low that the program amounts to mandatory charity for physicians who accept it. CalAIM's ambition to address social determinants is laudable in theory but asks managed care plans, entities whose core competency is claims processing and utilization management, to become social service agencies. The unwinding disenrolled hundreds of thousands of people who remain eligible, including children, because the administrative system cannot reliably verify eligibility without burdening enrollees with paperwork they cannot complete. At 15.4 million enrollees, Medi-Cal is too large to be a safety net and too underfunded to be a health system. It is something in between: a coverage card that guarantees access on paper while rationing it through provider scarcity in practice.
+
+The generous read is that California provides health coverage to 15.4 million people who would otherwise be uninsured or underinsured, at a per-enrollee cost substantially below commercial insurance, through a system that has dramatically expanded access to care over the past decade. The ACA expansion added millions of previously uninsured adults. The continuous enrollment period connected 5 million additional people to coverage during a pandemic. CalAIM is the most innovative Medicaid reform in the country, recognizing that health is determined by housing, food, and social connection, not just clinical encounters, and investing accordingly. The $1.7 billion rate increase is the largest in program history and demonstrates political commitment to improving the program. IHSS keeps 700,000 elderly and disabled Californians in their homes rather than institutions, at a fraction of nursing home cost, while providing employment to 600,000 caregivers. CalRx is the first state-branded pharmaceutical label in the nation, using public purchasing power to reduce drug costs. Medi-Cal is imperfect, underfunded, and overstretched. It is also the reason that California's uninsured rate fell from 17 percent in 2013 to 6 percent in 2024, a transformation that has saved more lives than any other state policy enacted in the past decade.
+
+---
+
+## What the Data Doesn't Show
+
+The Department of Health Care Services publishes enrollment data, expenditure data, and managed care plan quality measures. What it does not publish, or publishes with significant delay, is outcome data that connects Medi-Cal coverage to health results. The quality measures that exist, HEDIS scores for preventive care, hospital readmission rates, and health plan satisfaction surveys, show Medi-Cal managed care plans performing below commercial plans on most measures. But these measures capture process, not outcome. Whether Medi-Cal coverage reduces mortality, improves chronic disease management, or prevents disability relative to being uninsured is studied primarily through academic research, not routine program evaluation.
+
+The data does not capture the experience of navigating Medi-Cal as an enrollee. The system's complexity, with 25 managed care plans, varying county structures, separate behavioral health and substance use treatment carve-outs, and distinct eligibility categories with different rules, creates barriers that are invisible in aggregate statistics but dominate the lived experience of beneficiaries. A Medi-Cal enrollee seeking mental health services may need to determine whether their condition qualifies for specialty mental health (county-administered) or mild-to-moderate services (managed care plan-administered), a distinction that clinicians struggle to apply consistently and that enrollees cannot navigate without assistance.
+
+The data also does not capture the fiscal risk that Medi-Cal poses to California's budget in an economic downturn. Enrollment is countercyclical: it rises during recessions as people lose jobs and income. But state revenue falls during recessions. The resulting budget pressure, more enrollees needing care while the state has less money, has historically led to provider rate cuts, benefit reductions, and eligibility restrictions in downturns, precisely when the program's beneficiaries need it most. The enhanced federal matching rates from the ACA cushion this cycle somewhat, but the state's $37 billion general fund contribution remains vulnerable to economic fluctuation.
+
+---
+
+Medi-Cal is the health plan for one in three Californians. It is the state's largest budget commitment. It is the nation's largest Medicaid program. And it is, in many ways, the least understood major institution in California government. Its budget exceeds that of most state government functions combined. Its enrollee population exceeds the population of 45 states. Its annual spending of $174 billion makes it a larger financial entity than most Fortune 100 companies. Yet it receives a fraction of the political attention given to K-12 education, housing, or transportation, despite spending more than any of them. The reason may be simple: Medi-Cal's beneficiaries are disproportionately poor, non-white, non-English-speaking, and politically disengaged. They do not attend town halls, fund campaigns, or write op-eds. They receive their coverage through a system that most other Californians never interact with and rarely think about. One in three. The largest health plan in the state, serving the people with the least power to improve it.
+
+---
+
+*Data sources: [Department of Health Care Services Medi-Cal Enrollment Data](https://www.dhcs.ca.gov/dataandstats/Pages/Medi-Cal-Eligibility-Statistics.aspx); [California Governor's Budget 2025-26 Health and Human Services](https://ebudget.ca.gov/); [Legislative Analyst's Office Medi-Cal Budget Overview](https://lao.ca.gov/); [California Health Care Foundation Medi-Cal Almanac](https://www.chcf.org/); [CalAIM Implementation Guide (DHCS)](https://www.dhcs.ca.gov/CalAIM); [Covered California Enrollment Reports](https://www.coveredca.com/); [IHSS Program Data (CDSS)](https://www.cdss.ca.gov/in-home-supportive-services); [CMS Medicaid Expenditure Reports](https://www.medicaid.gov/). All figures as reported by the respective agencies and researchers.*
+
+*This is the twentieth installment of California Counts. Previous posts examined the [Governor's Office](governors-office-spending), [GovOps](govops-back-office), the [infrastructure veto count](infrastructure-veto-count), the [grants portal overview](grants-portal-overview), [energy transition grants](grants-energy-transition), [housing crisis grants](grants-housing-crisis), [state workforce vacancies](state-workforce-vacancies), [hospital utilization trends](hospital-utilization-trends), the [prison population drawdown](prison-population-drawdown), the [energy grid transition](energy-grid-transition), the [pension promise](pension-promise-compounds), the [special districts](special-districts-hidden-government), [CEQA litigation](ceqa-who-actually-sues), [autonomous vehicles](autonomous-vehicles-driverless), the [insurance crisis](insurance-uninsurable-state), [water rights](water-rights-paper-water), [high-speed rail](high-speed-rail-cost-spiral), [homelessness spending](homelessness-spending-outcomes), and the [cannabis market](cannabis-market-failure). All data and analysis available on request.*
+
+*Disclosure: This post was drafted with the assistance of an AI agent (Claude) and has not been independently verified by a human editor. All data sources are linked above and readers are encouraged to check the underlying data directly.*
