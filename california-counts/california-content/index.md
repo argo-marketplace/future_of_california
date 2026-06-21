@@ -147,3 +147,4 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[primary-turnout-quarter-who-showed-up|The Quarter Who Showed Up]]
 - [[wildfire-philanthropy-money-after-fire|The Money After the Fire]]
 - [[la-mayor-late-count|The Late Count]]
+- [[city-employees-permanent-employee|The Permanent Employee]]
