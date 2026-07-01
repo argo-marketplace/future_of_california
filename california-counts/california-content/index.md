@@ -163,3 +163,5 @@ Built on data from [Open FI$Cal](https://open.fiscal.ca.gov/), the [California S
 - [[water-rates-affordability|The Water Bill]]
 - [[judicial-appointments-newsom|The Appointed Bench]]
 - [[state-advertising-spending|The Government Ad]]
+- [[medi-cal-managed-care-profits|The Managed Care Margin]]
+- [[calfresh-participation-gap|The Participation Gap]]
